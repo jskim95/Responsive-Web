@@ -1,4 +1,4 @@
-/* 박스 스타일 bottom부분 화살표 만드는 css */
+1. 박스 스타일 bottom부분 화살표 만드는 css 
     content: "";
     position: absolute;
     left: 50%;
@@ -7,3 +7,5 @@
     border-top: 5px solid #3192bf;
     border-left: 5px solid transparent;
     border-right: 5px solid transparent;
+
+2. overflow:hidden ??
