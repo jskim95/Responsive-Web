@@ -9,3 +9,9 @@
     border-right: 5px solid transparent;
 
 2. overflow:hidden ??
+
+3. float 정리
+
+4. position: absolute, relative 정리
+
+5. background, background-color 차이점
